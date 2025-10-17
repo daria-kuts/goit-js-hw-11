@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["import some from './js/pixabay-api';\nimport someFunct from './js/render-functions'\n\n\nconst form = document.querySelector('.form');\nform.addEventListener('submit', )"],"names":["form"],"mappings":"ssBAIA,MAAMA,EAAO,SAAS,cAAc,OAAO,EAC3CA,EAAK,iBAAiB,QAAQ"}
